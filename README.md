@@ -1,8 +1,5 @@
 # AStarMaze
-
-Author:   Naomi Campbell
-
-Title:    A* Search (AI)
+A* Search (AI)
 
 Purpose: Gain experience with problem solving agents and the A* algorithm
 
