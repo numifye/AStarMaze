@@ -7,25 +7,8 @@ Title:    A* Search (AI)
 Purpose: Gain experience with problem solving agents and the A* algorithm
 
 
-When presented a n x m, text-based maze, the game character strives to climb to the top floor using the A*-algorithm. Example maze:
+When presented a n x m, text-based maze, the game character strives to climb to the top floor using the A*-algorithm.
 
-#.........        
-
-=.======.=
-
-..=.......  
-
-====.=====
-
-........=.
-
-=.=====.==
-
-=.........
-
-==.=======
-
-.....@....
 
 
 Character = @
